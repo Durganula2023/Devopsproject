@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 Hello first file
+I am seconf line
+>>>>>>> feature2
